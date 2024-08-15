@@ -49,7 +49,7 @@ x-casaos:
 
   tagline:
     # Short description or tagline in English
-    en_us: EJBCA Community
+    en_us: The open-source public key infrastructure (PKI) and certificate authority (CA)
 
   # Developer's name or identifier
   developer: "Keyfactor"
@@ -74,7 +74,7 @@ x-casaos:
   title:
     # Title in English
     en_us: EJBCA Community
-
+  
   # Application category
   category: BigBearCasaOS
 
