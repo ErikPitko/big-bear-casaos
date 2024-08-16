@@ -66,6 +66,7 @@ x-casaos:
   tips:
     before_install:
       en_us: |
+        After installation wait for a few minutes as the initialization takes a while.
         Default admin URL: https://<host/ip>:8443/ejbca/adminweb
         Default HTTP port: 8080
         For more information on custom setup visit: https://github.com/Keyfactor/ejbca-ce
@@ -74,7 +75,7 @@ x-casaos:
   title:
     # Title in English
     en_us: EJBCA Community
-  
+
   # Application category
   category: BigBearCasaOS
 
